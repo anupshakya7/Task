@@ -6,5 +6,8 @@ Pizza
 Momo
 Chicken Fry
 
+Chowmein
+Sausage
+
 
 Thank You :)
